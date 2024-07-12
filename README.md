@@ -13,7 +13,7 @@ Pipeline de dados além de conter ETL, contém o enriquecimento dos dados, depen
 
 Dado essa explicação, podemos citar as ferramentas que mais são utilizadas no processo de ETL em Engenharia de Dados.
 
-Vale lembrar que não tem uma ordem especifica e sim aquele que mais se adequa ao caso de uso
+Vale lembrar que não tem uma ordem especifica e sim aquele que mais se adequa ao caso de uso.
 
 * Extraction:
 
