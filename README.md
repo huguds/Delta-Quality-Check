@@ -7,7 +7,7 @@ A area de Engenharia de Dados tem se destacado cada vez mais no mercado de traba
 Quando falamos sobre Engenharia de Dados, muito se fala sobre ETL e Pipeline de Dados, mas a final o que seria isso? <br><br>
 ETL é a abreviação do termo (Extraction, Transform e Loading), ou seja extração, tratamento/transformação e o carregamento do dados para um local seguro, onde posteriormente ele possa ser consumido.
 
-Muitas pessoas confundem Pipeline de dados com ETL, mas na verdade, ETL é somente uma parte do Pipeline de dados.
+Muitas pessoas confundem Pipeline de dados com ETL, mas na verdade, ETL é somente um subprocesso do Pipeline de dados.
 
 Pipeline de dados além de conter uma parte de ETL, também contém o enriquecimento dos dados, dependendo da base que está sendo consumida é necessário cruzar N bases diferentes para conseguir chegar no resultado necessário, o dado precisa passar por diferentes camadas até chegar na camada final.
 
