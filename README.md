@@ -9,7 +9,7 @@ ETL é a abreviação do termo (Extraction, Transform e Loading), ou seja extra�
 
 Muitas pessoas confundem Pipeline de dados com ETL, mas na verdade, ETL é somente um subprocesso do Pipeline de dados.
 
-Pipeline de dados além de conter uma parte de ETL, também contém o enriquecimento dos dados, dependendo da base que está sendo consumida é necessário cruzar N bases diferentes para conseguir chegar no resultado necessário, o dado precisa passar por diferentes camadas até chegar na camada final.
+Pipeline de dados além de conter ETL, contém o enriquecimento dos dados, dependendo da base que está sendo consumida é necessário cruzar N bases diferentes para conseguir chegar no resultado necessário, o dado precisa passar por diferentes camadas até chegar na camada final.
 
 Dado essa explicação, podemos citar as ferramentas que mais são utilizadas no processo de ETL em Engenharia de Dados.
 
